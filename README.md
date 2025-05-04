@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/70606180-21c3-40d3-b145-85f493903931.svg)](https://wakatime.com/@70606180-21c3-40d3-b145-85f493903931)
+<!-- [![wakatime](https://wakatime.com/badge/user/70606180-21c3-40d3-b145-85f493903931.svg)](https://wakatime.com/@70606180-21c3-40d3-b145-85f493903931) -->
 
 <h3 align="center">
   <samp>
