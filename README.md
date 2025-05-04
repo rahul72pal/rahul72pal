@@ -48,13 +48,13 @@
 <br/>
 <br/>
 
-## 🏆 Holopin Badges
+<!-- ## 🏆 Holopin Badges
 
 <p align="center">
   <a href="https://holopin.io/@rahul72pal">
     <img src="https://holopin.me/rahul72pal" alt="My Holopin Badges" width="800" style="display: block; margin:auto;" onerror="this.onerror=null; this.src='YOUR_FALLBACK_IMAGE_URL';">
   </a>
-</p>
+</p> -->
 
 ## 💻 Tech Stack I Use
 
