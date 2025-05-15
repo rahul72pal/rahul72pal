@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,html,css,sass,tailwind,bootstrap,cpp,c,git,vscode,sublime,replit,codepen,vercel,netlify,mongodb,graphql,express,github,firebase,redux,multer,reactnative,oauth,shadcnui,postman,jwt,generativeai,nextjs,webpack,mysql" alt="Expanded Tech Stack">
+    <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,html,css,sass,tailwind,bootstrap,cpp,c,git,vscode,sublime,replit,codepen,vercel,netlify,mongodb,graphql,express,github,firebase,redux,multer,reactnative,oauth,shadcn,postman,jwt,nextjs,webpack,mysql" alt="Expanded Tech Stack">
   </a>
 </p>
 
